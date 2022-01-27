@@ -1,2 +1,4 @@
 # Ultratrack
-Ultrasound muscle tracking software
+Ultrasound muscle tracking software - Matlab 
+
+Requires Image Processsing Toolbox
